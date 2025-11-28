@@ -1,2 +1,4 @@
-# Mysql_Repository
-Title: MySQL Queries – Concepts, Practice &amp; Real-World Examples  This repository contains MySQL queries only, focused on learning, revision, and real-world usage.
+# 📘 **MySQL Queries – Concepts, Practice & Real-World Examples**
+
+This repository contains **MySQL queries only**—organized for **learning**, **revision**, and **real-world practice**.
+It covers everything from basic SQL to advanced analytics queries.
