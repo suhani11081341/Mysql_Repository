@@ -585,5 +585,5 @@ CREATE TABLE tt (
 INSERT INTO tt VALUES (NULL);
 SELECT * FROM tt;
 SELECT @@sql_mode;
-
+SELECT @@sql_mode LIKE '%STRICT_TRANS_TABLES%' AS strict_enabled;
 
